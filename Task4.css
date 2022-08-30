@@ -1,0 +1,86 @@
+.img-area{
+			background-image: url('food.jpg');
+			height: 100vh;
+			width: auto;
+			background-size: 100% 100%;
+			filter: blur(8px);
+			
+			
+			
+		}
+		.pic1{
+			background-image: url('pic1.jpg');
+			height: 90px;
+			width: 90px;
+			border-radius: 55px;
+			margin-top: -20px;
+			margin-left: 5px;
+			background-size: 350%;
+			position: absolute;
+		}
+		.pic3{
+			background-image: url('pic3.jpg');
+			height: 90px;
+			width: 90px;
+			border-radius: 55px;
+			margin-top: -20px;
+			margin-left: 5px;
+
+		}
+		.pic4{
+			background-image: url('pic4.jpg');
+			height: 90px;
+			width: 90px;
+			border-radius: 55px;
+			margin-top: -8px;
+			margin-left: 5px;
+			background-size: 100%;
+		}
+		.pic7{
+			background-image: url('pic7.jpg');
+			height: 90px;
+			width: 90px;
+			border-radius: 55px;
+			margin-top: -8px;
+			margin-left: 5px;
+			background-size: 100%;
+		}
+	.pic8{
+		background-image: url('pic8.jpg');
+		height: 190px;
+		width: 190px;
+		border-radius: 90px;
+		margin-left: 55px;
+		margin-top: 20px;
+		background-size: 110%;
+	}
+	.pic9{
+		background-image: url('pic8.jpg');
+		height: 90px;
+		width: 90px;
+		border-radius: 90px;
+		margin-left: 5px;
+		margin-top: 20px;
+		background-size: 110%;
+	}
+	.pic10{
+		background-image: url('pic4.jpg');
+		height: 90px;
+		width: 90px;
+		border-radius: 90px;
+		margin-left: 5px;
+		margin-top: 20px;
+		background-size: 110%;
+	}
+	.pic11{
+		background-image: url('pic3.jpg');
+		height: 90px;
+		width: 90px;
+		border-radius: 90px;
+		margin-left: 5px;
+		margin-top: 20px;
+		background-size: 110%;
+	}
+	
+
+		
